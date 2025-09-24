@@ -17,10 +17,10 @@ Enter username: admin
 Enter password: admin123
 
 **Admin Menu:**
-Add Book
-Remove Book
-View Books
-Logout
+Add Book,
+Remove Book,
+View Books,
+Logout,
 Enter your choice:
 ############################################################################
 **Login Screen:**
@@ -31,8 +31,8 @@ Enter password: student123
 
 **Student Menu:**
 
-View Books
-Borrow Book
-Return Book
-Logout
+View Books,
+Borrow Book,
+Return Book,
+Logout,
 Enter your choice:
